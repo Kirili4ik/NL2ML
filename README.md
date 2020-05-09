@@ -1,7 +1,7 @@
 # NL2ML
 Natural Language to Machine Learning corpus
 
-### Collected and marked by ourselves data:
+### Collected and marked data:
 https://docs.google.com/spreadsheets/d/1gDhVdq2GktuWXh7hDyt_js335Xbvsw57iSNh_wEaUxE/
 
 ### Data parsed from Kaggle:
