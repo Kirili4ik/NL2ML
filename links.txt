@@ -1,0 +1,9 @@
+https://www.knime.com/blog/how-to-automate-machine-learning
+https://towardsdatascience.com/workflow-of-a-machine-learning-project-ec1dba419b94
+https://medium.com/datadriveninvestor/machine-learning-project-workflow-8137a401ed81
+https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7
+https://towardsdatascience.com/i-had-no-idea-how-to-build-a-machine-learning-pipeline-but-heres-what-i-figured-f3a7773513a
+https://www.datanami.com/2018/09/05/how-to-build-a-better-machine-learning-pipeline/
+https://www.infoworld.com/article/3198252/data-in-intelligence-out-machine-learning-pipelines-demystified.html
+https://habr.com/ru/company/otus/blog/442918/
+
