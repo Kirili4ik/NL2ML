@@ -17,7 +17,7 @@ code_blocks_final - Python 3 code, divided to blocks (from .ipynb), where author
 https://github.com/Kirili4ik/code2vec
 
 
-### Colleagues:
+### Related works:
 
 https://github.com/whatevernevermindbro/source_code_classification
 
