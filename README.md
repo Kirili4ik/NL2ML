@@ -1,6 +1,13 @@
 # NL2ML corpus
 Natural Language to Machine Learning corpus. A coursework of mine.
 
+### Workflow
+![alt text](https://github.com/Kirili4ik/NL2ML-corpus/blob/master/whole_workflow%20(1)-Page-1.jpg)
+
+### Presentation with explanation:
+
+https://github.com/Kirili4ik/pres-n-articles/blob/master/corpus_NL2ML_Presentation.pdf
+
 ### Expertly collected and marked data:
 https://docs.google.com/spreadsheets/d/1gDhVdq2GktuWXh7hDyt_js335Xbvsw57iSNh_wEaUxE/
 
@@ -25,9 +32,6 @@ regular_expressions+LogReg_code2vec - making tags by KG and regular expressions 
 
 https://github.com/Kirili4ik/code2vec
 
-### Presentation with explanation:
-
-https://github.com/Kirili4ik/pres-n-articles/blob/master/corpus_NL2ML_Presentation.pdf
 
 ### Related works:
 
