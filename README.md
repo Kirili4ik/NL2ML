@@ -1,5 +1,5 @@
-# NL2ML
-Natural Language to Machine Learning corpus
+# NL2ML corpus
+Natural Language to Machine Learning corpus. A coursework of mine.
 
 ### Expertly collected and marked data:
 https://docs.google.com/spreadsheets/d/1gDhVdq2GktuWXh7hDyt_js335Xbvsw57iSNh_wEaUxE/
@@ -21,11 +21,13 @@ pre-preprocessing - basic preprocessing for finding most popular comments and tr
 regular_expressions+LogReg_code2vec - making tags by KG and regular expressions + looking at code2vec and logistic regression f1-scores 
 
 
-
 ### Code2vec implementation:
 
 https://github.com/Kirili4ik/code2vec
 
+### Presentation with explanation:
+
+https://github.com/Kirili4ik/pres-n-articles/blob/master/corpus_NL2ML_Presentation.pdf
 
 ### Related works:
 
